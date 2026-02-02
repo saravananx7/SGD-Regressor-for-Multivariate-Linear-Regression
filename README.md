@@ -9,8 +9,11 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1. Import required libraries and prepare the multivariate input data and target values.
+   
 2.Initialize the SGD Regressor with appropriate learning rate and iterations.
+
 3.Train the model using the given dataset and predict the output values.
+
 4.Compare actual and predicted values using graphical visualization.
    
 
